@@ -1,5 +1,0 @@
-String name = "Dev" ;
-
-int age = 30 ;
-
-
